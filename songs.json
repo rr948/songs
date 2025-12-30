@@ -1,0 +1,9 @@
+[
+  {
+    "id": "song1",
+    "title": "sample music",
+    "artist": "sample artist",
+    "thumbnailUrl": "https://raw.githubusercontent.com/rr948/songs/main/media/1_thumbnail.jpg",
+    "songUrl": "https://raw.githubusercontent.com/rr948/songs/main/media/1.mp4"
+  }
+]
